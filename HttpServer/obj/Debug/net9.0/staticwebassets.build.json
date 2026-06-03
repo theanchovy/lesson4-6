@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6+nbzzo9U72S/O/Z2+Xz2HiA4x1vMMEhKK9L9wtZjOc=",
+  "Source": "HttpServer",
+  "BasePath": "_content/HttpServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
